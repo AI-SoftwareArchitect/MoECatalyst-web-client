@@ -1,1 +1,1 @@
-![alt metni](logo.PNG)
+![alt metni](catalyst-reactjs.png)
